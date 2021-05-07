@@ -1,7 +1,7 @@
 ---
 title: "Display Your Progress"
 date: 2021-05-07T16:04:55+05:30
-draft: true
+draft: false
 ---
 
 # Display your progress
