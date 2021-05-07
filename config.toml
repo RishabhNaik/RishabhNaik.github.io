@@ -1,7 +1,7 @@
-baseURL = "yoururl"
+baseURL = "www.examplesite.com"
 languageCode = "en-us"
 title = "Your Title"
-theme= "hugo-paper"
+theme= "paper"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 3
