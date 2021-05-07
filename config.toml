@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Your Title"
+title = "Rishabh Naik"
 theme= "paper"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
@@ -18,6 +18,8 @@ ignoreErrors = ["error-remote-getjson"]
     name = "About"
     url = "/about/"
     weight = 10
+
+    
 
 [taxonomies]
 category = "categories"
