@@ -1,4 +1,4 @@
-baseURL = "www.examplesite.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Your Title"
 theme= "paper"
