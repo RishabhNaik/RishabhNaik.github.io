@@ -1,2 +1,4 @@
-# RishabhNaik.github.io
-A personal website
+## Welcome to GitHub Pages
+
+## Rishabh Naik
+
