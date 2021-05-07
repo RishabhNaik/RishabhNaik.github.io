@@ -2,8 +2,8 @@ baseURL = "https://rishabhnaik.netlify.app/"
 languageCode = "en-us"
 title = "Rishabh Naik"
 theme= "paper"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+author = "Rishabh naik"
+copyright = "Copyright © 2008–2019, Rishabh naik and the Hugo Authors; all rights reserved."
 paginate = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -19,11 +19,6 @@ ignoreErrors = ["error-remote-getjson"]
     url = "/about/"
     weight = 10
 
-[[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 10
     
 
 [taxonomies]
