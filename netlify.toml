@@ -5,7 +5,7 @@ publish = "public"
 [context.production.environment]
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV           = "production"
-HUGO_THEME         = "papermod"
+HUGO_THEME         = "paper"
 HUGO_VERSION       = "0.81.0"
 
 [context.split1]
