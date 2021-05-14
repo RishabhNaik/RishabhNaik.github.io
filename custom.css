@@ -115,3 +115,216 @@
     background: #ff6600;
     color: white;
   }
+
+  @import url("https://fonts.googleapis.com/css?family=Unica+One");
+body {
+  color: #fff9db;
+  background: #a61e4d;
+}
+
+.tree {
+  fill: #fff;
+}
+
+.sky-bright {
+  stop-color: #fff;
+}
+
+.sky-dark {
+  stop-color: #c5f6fa;
+}
+
+.mountain-bright {
+  stop-color: #69db7c;
+}
+
+.mountain-dark {
+  stop-color: #d8f5a2;
+}
+
+.hills-bright {
+  stop-color: #51cf66;
+}
+
+.hills-dark {
+  stop-color: #82c91e;
+}
+
+.hills2-bright {
+  stop-color: #40c057;
+}
+
+.hills2-dark {
+  stop-color: #74b816;
+}
+
+.sky {
+  fill: url(#sky-gradient);
+}
+
+.mountains {
+  fill: url(#mountain-gradient);
+}
+
+.peaks {
+  fill: #fff;
+}
+
+.hills {
+  fill: url(#hill1-gradient);
+}
+
+.hill {
+  fill: url(#hill2-gradient);
+}
+
+/*Page Setup*/
+svg {
+  width: 100vw;
+  height: 80vh;
+}
+
+.particle-conntainer {
+  fill: rgba(255, 255, 255, 0.6);
+  stroke: rgba(255, 255, 255, 0.3);
+  stroke-width: 10;
+  -webkit-animation: float 10s linear infinite;
+          animation: float 10s linear infinite;
+  --amplitude: 50px;
+}
+.particle-conntainer .particle {
+  -webkit-animation: occilate 2s ease-in-out infinite alternate;
+          animation: occilate 2s ease-in-out infinite alternate;
+}
+.particle-conntainer:nth-child(1) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 30s;
+          animation-duration: 30s;
+  -webkit-animation-delay: -4.5s;
+          animation-delay: -4.5s;
+}
+.particle-conntainer:nth-child(1) .particle {
+  -webkit-animation-duration: 7.5s;
+          animation-duration: 7.5s;
+}
+.particle-conntainer:nth-child(2) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 23.5s;
+          animation-duration: 23.5s;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.particle-conntainer:nth-child(2) .particle {
+  -webkit-animation-duration: 5.875s;
+          animation-duration: 5.875s;
+}
+.particle-conntainer:nth-child(3) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 28s;
+          animation-duration: 28s;
+  -webkit-animation-delay: -15s;
+          animation-delay: -15s;
+}
+.particle-conntainer:nth-child(3) .particle {
+  -webkit-animation-duration: 7s;
+          animation-duration: 7s;
+}
+.particle-conntainer:nth-child(4) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 28s;
+          animation-duration: 28s;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.particle-conntainer:nth-child(4) .particle {
+  -webkit-animation-duration: 7s;
+          animation-duration: 7s;
+}
+.particle-conntainer:nth-child(5) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 16s;
+          animation-duration: 16s;
+  -webkit-animation-delay: -17.5s;
+          animation-delay: -17.5s;
+}
+.particle-conntainer:nth-child(5) .particle {
+  -webkit-animation-duration: 4s;
+          animation-duration: 4s;
+}
+.particle-conntainer:nth-child(6) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 12.5s;
+          animation-duration: 12.5s;
+  -webkit-animation-delay: -24s;
+          animation-delay: -24s;
+}
+.particle-conntainer:nth-child(6) .particle {
+  -webkit-animation-duration: 3.125s;
+          animation-duration: 3.125s;
+}
+.particle-conntainer:nth-child(7) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 16s;
+          animation-duration: 16s;
+  -webkit-animation-delay: -24.5s;
+          animation-delay: -24.5s;
+}
+.particle-conntainer:nth-child(7) .particle {
+  -webkit-animation-duration: 4s;
+          animation-duration: 4s;
+}
+.particle-conntainer:nth-child(8) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 15s;
+          animation-duration: 15s;
+  -webkit-animation-delay: -12s;
+          animation-delay: -12s;
+}
+.particle-conntainer:nth-child(8) .particle {
+  -webkit-animation-duration: 3.75s;
+          animation-duration: 3.75s;
+}
+.particle-conntainer:nth-child(9) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 22.5s;
+          animation-duration: 22.5s;
+  -webkit-animation-delay: -18s;
+          animation-delay: -18s;
+}
+.particle-conntainer:nth-child(9) .particle {
+  -webkit-animation-duration: 5.625s;
+          animation-duration: 5.625s;
+}
+.particle-conntainer:nth-child(10) {
+  --amplitude: 10px + random(40)*1px;
+  -webkit-animation-duration: 21s;
+          animation-duration: 21s;
+  -webkit-animation-delay: -15s;
+          animation-delay: -15s;
+}
+.particle-conntainer:nth-child(10) .particle {
+  -webkit-animation-duration: 5.25s;
+          animation-duration: 5.25s;
+}
+
+@-webkit-keyframes occilate {
+  100% {
+    transform: translate(0, var(--amplitude));
+  }
+}
+
+@keyframes occilate {
+  100% {
+    transform: translate(0, var(--amplitude));
+  }
+}
+@-webkit-keyframes float {
+  100% {
+    transform: translate(1000px, 0);
+  }
+}
+@keyframes float {
+  100% {
+    transform: translate(1000px, 0);
+  }
+}
