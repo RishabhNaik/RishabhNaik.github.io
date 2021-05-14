@@ -14,6 +14,7 @@ ignoreErrors = ["error-remote-getjson"]
     url = "/about/"
     weight = 10
 
+
 [taxonomies]
 category = "categories"
 tag = "tags"

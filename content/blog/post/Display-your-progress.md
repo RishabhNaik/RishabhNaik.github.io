@@ -2,6 +2,7 @@
 title: "Display Your Progress"
 date: 2021-05-07T16:04:55+05:30
 draft: false
+type: "blog"
 ---
 
 This is my first blog that is highly written on my experiences. The series of upcoming blogs contain all the things that I did on that particular week and the things that I learnt. A focused group of ours from **[Sushiksha](https://sushiksha.konkanischolarship.com/)** sit for a call every night at 9:30 pm at IST to talk about the day. Every month we had to set five goals as Pentathlon(Ultraworking), which consists of goals like fitness, Wake-up / Sleep cycle, Most important work (MIW), Nutrition and Planning. This month we customized the framework. This time only MIW was kept as it is with a minimum of 1 hour of MIW per day. Habits were introduced. Also, it was all about outcome-based. My goal was to create a portfolio website to show my work more professionally.
