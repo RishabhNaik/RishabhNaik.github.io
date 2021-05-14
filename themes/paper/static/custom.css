@@ -177,8 +177,8 @@
 
 /*Page Setup*/
 svg {
-  width: 100vw;
-  height: 80vh;
+  width: 80vw;
+  height: 60vh;
 }
 
 .particle-conntainer {
