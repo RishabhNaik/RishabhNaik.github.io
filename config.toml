@@ -45,3 +45,8 @@ series = "series"
 
   [services.twitter]
     disableInlineCSS = true
+
+  [sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
