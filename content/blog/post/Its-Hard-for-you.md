@@ -9,13 +9,13 @@ The tougher the work the more we will enjoy, so from 8th -15th of may 2021 I dec
 
 I have made digital Art for 2 years still it was hard for me. But after this Art, it was not. As you may all know now, I originally made digital illustrations and posted them on Instagram. In a long time, I hadn't done mechanical illustrations. This time I was thinking of making a Superbike, but I did not know which one to do. I posted a survey on Instagram to find out what people loved. The poll included four major bikes by BMW, Ducati, Harley Davidson and Kawasaki. You might think "There were other bikes which were good!" Yes, I know but this was a random pick. There was a good response to that poll. The result was Harley Davidson live wire.
 
-![image info](https://ibb.co/Rhr8hM0)
+<iframe src="https://drive.google.com/file/d/1xUuqqD-Ej-22CR8WBELqs2GD2ChPA847/preview" width="640" height="480"></iframe>
 
 I was confused after collecting the references as to whether to calculate it (trace the outlines) or to do it freely. After an hour, after scribbling and sketching, I finished with a line of the drawing. I started doing it freehand and let my paint flow through the canvas. I  was glad how it came out. I drew another line of work over the existing one to make it more detailed and to prevent confusions while painting.  The sketch was complete and clean. 
 
 The real process starts from here. I started with freehand painting just going over the sketch without having a perfect form. I did the whole bike body and deleted the layer later because it wasn't good. I did this mistake two times. As usual, I felt demotivated and went to youtube to search for inspiration. That is I searched how to colour a concept bike. In one of the video, he showed how to paint using a lasso/selection tool. I was too sceptical because it's hard to get a smooth line using a lasso. Then I searched for how to use selections tools that is lasso, magnetic, square, circle and bezier selection tool effectively in Krita. 
 
-![image info](./../../../resources/_gen/images/Screenshot%20(41).png)
+![jhdsfkjhsd](images/Harley-Davidson.jpeg)
 
 How I paint using selection and a new style?
 
