@@ -8,8 +8,7 @@ type : "blog"
 The tougher the work the more we will enjoy, so from 8th -15th of may 2021 I decided to keep my Most important work (goal) to learn C++ from scratch. Coding has been really fun and challenging for me so I choose to learn/revise the language C++. To make the goal even better I choose to make a game because with whatever programming language I learn I learn it by creating a game. I challenged myself to learn OpenGL, Installed all the requirements and ran few sample codes to see how it works.  I also installed Codeblocks which works well with Cpp. Well, it was very difficult.
 
 I have made digital Art for 2 years still it was hard for me. But after this Art, it was not. As you may all know now, I originally made digital illustrations and posted them on Instagram. In a long time, I hadn't done mechanical illustrations. This time I was thinking of making a Superbike, but I did not know which one to do. I posted a survey on Instagram to find out what people loved. The poll included four major bikes by BMW, Ducati, Harley Davidson and Kawasaki. You might think "There were other bikes which were good!" Yes, I know but this was a random pick. There was a good response to that poll. The result was Harley Davidson live wire.
-
-![image info](./../../../resources/_gen/images/Screenshot%20(54).png)
+<img src="./../../../resources/_gen/images/Screenshot%20(54).png" alt="MarineGEO circle logo" />
 
 I was confused after collecting the references as to whether to calculate it (trace the outlines) or to do it freely. After an hour, after scribbling and sketching, I finished with a line of the drawing. I started doing it freehand and let my paint flow through the canvas. I  was glad how it came out. I drew another line of work over the existing one to make it more detailed and to prevent confusions while painting.  The sketch was complete and clean. 
 
